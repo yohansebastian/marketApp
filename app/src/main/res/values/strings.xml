@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MarketApp</string>
+    <string name="login_email_hint">Correo Electronico</string>
+    <string name="login_password_hint">Contraseña</string>
+    <string name="rol_hint">Rol (Usuario - Vendedor)</string>
+
+</resources>
